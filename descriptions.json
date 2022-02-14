@@ -14,10 +14,6 @@
           ]
         }
       ],
-      "editor": {
-        "mainEditor": "asdasxzczxc",
-        "secondaryEditor": ""
-      },
       "lastUpdate": "2022-02-12T22:46:46.054Z"
     },
     "3927963103": {
@@ -97,7 +93,7 @@
           ]
         }
       ],
-      "lastUpdate": "2022-02-14T15:01:55.425Z"
+      "lastUpdate": "2022-02-14T16:29:41.463Z"
     }
   },
   "normal": {
@@ -238,10 +234,6 @@
           "className": "table"
         }
       ],
-      "editor": {
-        "mainEditor": "On Weapon Kill:\r\nDamage Increase and Slower Rate of Fire/Charge Time for 5 seconds.\r\n\r\n< table >\r\n|b Weapon Type        |b +Damage|\r\n| Hand Cannon         | 25%     | -15% RoF <background/>\r\n| Auto Rifle          | 25%     | -20% RoF\r\n| Bow                 | 20%     | -20% CR <background/>\r\n| Shotgun             | 20%     | -20% RoF\r\n| Grenade Launcher    | 25%     | -20% RoF <background/>\r\n| Fusion Rifle        | 27%     | -15% CR\r\n| Linear Fusion Rifle | 25%     | -15% CR <background/>\r\n<$>",
-        "secondaryEditor": ""
-      },
       "lastUpdate": "2022-02-12T13:25:50.756Z"
     }
   },
@@ -383,10 +375,6 @@
           "className": "table"
         }
       ],
-      "editor": {
-        "mainEditor": "On Weapon Kill:\r\nDamage Increase and Slower Rate of Fire/Charge Time for 5 seconds.\r\n\r\n< table >\r\n|b Weapon Type        |b +Damage|\r\n| Hand Cannon         | 25%     | -15% RoF <background/>\r\n| Auto Rifle          | 25%     | -20% RoF\r\n| Bow                 | 20%     | -20% CR <background/>\r\n| Shotgun             | 20%     | -20% RoF\r\n| Grenade Launcher    | 25%     | -20% RoF <background/>\r\n| Fusion Rifle        | 27%     | -15% CR\r\n| Linear Fusion Rifle | 25%     | -15% CR <background/>\r\n<$>",
-        "secondaryEditor": ""
-      },
       "lastUpdate": "2022-02-12T13:33:34.078Z"
     }
   },
@@ -528,10 +516,6 @@
           "className": "table"
         }
       ],
-      "editor": {
-        "mainEditor": "On Weapon Kill:\r\nDamage Increase and Slower Rate of Fire/Charge Time for 5 seconds.\r\n\r\n< table >\r\n|b Weapon Type        |b +Damage|\r\n| Hand Cannon         | 25%     | -15% RoF <background/>\r\n| Auto Rifle          | 25%     | -20% RoF\r\n| Bow                 | 20%     | -20% CR <background/>\r\n| Shotgun             | 20%     | -20% RoF\r\n| Grenade Launcher    | 25%     | -20% RoF <background/>\r\n| Fusion Rifle        | 27%     | -15% CR\r\n| Linear Fusion Rifle | 25%     | -15% CR <background/>\r\n<$>",
-        "secondaryEditor": ""
-      },
       "lastUpdate": "2022-02-12T13:33:53.814Z"
     }
   },
@@ -540,10 +524,6 @@
       "name": "Fading Memory",
       "id": 0,
       "description": {},
-      "editor": {
-        "mainEditor": "",
-        "secondaryEditor": ""
-      },
       "lastUpdate": "2022-02-13T18:32:14.280Z"
     }
   }
