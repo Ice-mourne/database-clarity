@@ -1,0 +1,550 @@
+{
+  "armorExotic": {
+    "2799418574": {
+      "name": "Rites of Ember",
+      "id": 2799418574,
+      "armorName": "Dawn Chorus",
+      "armorId": 2316914168,
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "asdasxzczxc"
+            }
+          ]
+        }
+      ],
+      "editor": {
+        "mainEditor": "asdasxzczxc",
+        "secondaryEditor": ""
+      },
+      "lastUpdate": "2022-02-12T22:46:46.054Z"
+    },
+    "3927963103": {
+      "name": "Conduction Tines",
+      "id": 3927963103,
+      "armorName": "Crown of Tempests",
+      "armorId": 3381022969,
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Armor name"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Crown of Tempests"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Armor id"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "3381022969"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Perk name"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Conduction Tines"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Perk id"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "3927963103"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Last update"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "2022.1.27-13.22"
+            }
+          ]
+        }
+      ],
+      "lastUpdate": "2022-02-14T15:01:55.425Z"
+    }
+  },
+  "normal": {
+    "3673922083": {
+      "name": "Adagio",
+      "id": 3673922083,
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Weapon Kill:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Damage Increase and Slower Rate of Fire/Charge Time for 5 seconds."
+            }
+          ]
+        },
+        {
+          "className": "spacer"
+        },
+        {
+          "table": [
+            {
+              "lineText": [
+                {
+                  "className": "bold",
+                  "text": "Weapon Type"
+                },
+                {
+                  "className": "bold",
+                  "text": "+Damage"
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "Hand Cannon"
+                },
+                {
+                  "text": "25%"
+                },
+                {
+                  "text": "-15% RoF"
+                }
+              ],
+              "className": "background"
+            },
+            {
+              "lineText": [
+                {
+                  "text": "Auto Rifle"
+                },
+                {
+                  "text": "25%"
+                },
+                {
+                  "text": "-20% RoF"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "Bow"
+                },
+                {
+                  "text": "20%"
+                },
+                {
+                  "text": "-20% CR"
+                }
+              ],
+              "className": "background"
+            },
+            {
+              "lineText": [
+                {
+                  "text": "Shotgun"
+                },
+                {
+                  "text": "20%"
+                },
+                {
+                  "text": "-20% RoF"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "Grenade Launcher"
+                },
+                {
+                  "text": "25%"
+                },
+                {
+                  "text": "-20% RoF"
+                }
+              ],
+              "className": "background"
+            },
+            {
+              "lineText": [
+                {
+                  "text": "Fusion Rifle"
+                },
+                {
+                  "text": "27%"
+                },
+                {
+                  "text": "-15% CR"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "Linear Fusion Rifle"
+                },
+                {
+                  "text": "25%"
+                },
+                {
+                  "text": "-15% CR"
+                }
+              ],
+              "className": "background"
+            }
+          ],
+          "className": "table"
+        }
+      ],
+      "editor": {
+        "mainEditor": "On Weapon Kill:\r\nDamage Increase and Slower Rate of Fire/Charge Time for 5 seconds.\r\n\r\n< table >\r\n|b Weapon Type        |b +Damage|\r\n| Hand Cannon         | 25%     | -15% RoF <background/>\r\n| Auto Rifle          | 25%     | -20% RoF\r\n| Bow                 | 20%     | -20% CR <background/>\r\n| Shotgun             | 20%     | -20% RoF\r\n| Grenade Launcher    | 25%     | -20% RoF <background/>\r\n| Fusion Rifle        | 27%     | -15% CR\r\n| Linear Fusion Rifle | 25%     | -15% CR <background/>\r\n<$>",
+        "secondaryEditor": ""
+      },
+      "lastUpdate": "2022-02-12T13:25:50.756Z"
+    }
+  },
+  "armorMod": {
+    "3673922083": {
+      "name": "Adagio",
+      "id": 3673922083,
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Weapon Kill:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Damage Increase and Slower Rate of Fire/Charge Time for 5 seconds."
+            }
+          ]
+        },
+        {
+          "className": "spacer"
+        },
+        {
+          "table": [
+            {
+              "lineText": [
+                {
+                  "className": "bold",
+                  "text": "Weapon Type"
+                },
+                {
+                  "className": "bold",
+                  "text": "+Damage"
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "Hand Cannon"
+                },
+                {
+                  "text": "25%"
+                },
+                {
+                  "text": "-15% RoF"
+                }
+              ],
+              "className": "background"
+            },
+            {
+              "lineText": [
+                {
+                  "text": "Auto Rifle"
+                },
+                {
+                  "text": "25%"
+                },
+                {
+                  "text": "-20% RoF"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "Bow"
+                },
+                {
+                  "text": "20%"
+                },
+                {
+                  "text": "-20% CR"
+                }
+              ],
+              "className": "background"
+            },
+            {
+              "lineText": [
+                {
+                  "text": "Shotgun"
+                },
+                {
+                  "text": "20%"
+                },
+                {
+                  "text": "-20% RoF"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "Grenade Launcher"
+                },
+                {
+                  "text": "25%"
+                },
+                {
+                  "text": "-20% RoF"
+                }
+              ],
+              "className": "background"
+            },
+            {
+              "lineText": [
+                {
+                  "text": "Fusion Rifle"
+                },
+                {
+                  "text": "27%"
+                },
+                {
+                  "text": "-15% CR"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "Linear Fusion Rifle"
+                },
+                {
+                  "text": "25%"
+                },
+                {
+                  "text": "-15% CR"
+                }
+              ],
+              "className": "background"
+            }
+          ],
+          "className": "table"
+        }
+      ],
+      "editor": {
+        "mainEditor": "On Weapon Kill:\r\nDamage Increase and Slower Rate of Fire/Charge Time for 5 seconds.\r\n\r\n< table >\r\n|b Weapon Type        |b +Damage|\r\n| Hand Cannon         | 25%     | -15% RoF <background/>\r\n| Auto Rifle          | 25%     | -20% RoF\r\n| Bow                 | 20%     | -20% CR <background/>\r\n| Shotgun             | 20%     | -20% RoF\r\n| Grenade Launcher    | 25%     | -20% RoF <background/>\r\n| Fusion Rifle        | 27%     | -15% CR\r\n| Linear Fusion Rifle | 25%     | -15% CR <background/>\r\n<$>",
+        "secondaryEditor": ""
+      },
+      "lastUpdate": "2022-02-12T13:33:34.078Z"
+    }
+  },
+  "weaponPerk": {
+    "3673922083": {
+      "name": "Adagio",
+      "id": 3673922083,
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Weapon Kill:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Damage Increase and Slower Rate of Fire/Charge Time for 5 seconds."
+            }
+          ]
+        },
+        {
+          "className": "spacer"
+        },
+        {
+          "table": [
+            {
+              "lineText": [
+                {
+                  "className": "bold",
+                  "text": "Weapon Type"
+                },
+                {
+                  "className": "bold",
+                  "text": "+Damage"
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "Hand Cannon"
+                },
+                {
+                  "text": "25%"
+                },
+                {
+                  "text": "-15% RoF"
+                }
+              ],
+              "className": "background"
+            },
+            {
+              "lineText": [
+                {
+                  "text": "Auto Rifle"
+                },
+                {
+                  "text": "25%"
+                },
+                {
+                  "text": "-20% RoF"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "Bow"
+                },
+                {
+                  "text": "20%"
+                },
+                {
+                  "text": "-20% CR"
+                }
+              ],
+              "className": "background"
+            },
+            {
+              "lineText": [
+                {
+                  "text": "Shotgun"
+                },
+                {
+                  "text": "20%"
+                },
+                {
+                  "text": "-20% RoF"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "Grenade Launcher"
+                },
+                {
+                  "text": "25%"
+                },
+                {
+                  "text": "-20% RoF"
+                }
+              ],
+              "className": "background"
+            },
+            {
+              "lineText": [
+                {
+                  "text": "Fusion Rifle"
+                },
+                {
+                  "text": "27%"
+                },
+                {
+                  "text": "-15% CR"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "Linear Fusion Rifle"
+                },
+                {
+                  "text": "25%"
+                },
+                {
+                  "text": "-15% CR"
+                }
+              ],
+              "className": "background"
+            }
+          ],
+          "className": "table"
+        }
+      ],
+      "editor": {
+        "mainEditor": "On Weapon Kill:\r\nDamage Increase and Slower Rate of Fire/Charge Time for 5 seconds.\r\n\r\n< table >\r\n|b Weapon Type        |b +Damage|\r\n| Hand Cannon         | 25%     | -15% RoF <background/>\r\n| Auto Rifle          | 25%     | -20% RoF\r\n| Bow                 | 20%     | -20% CR <background/>\r\n| Shotgun             | 20%     | -20% RoF\r\n| Grenade Launcher    | 25%     | -20% RoF <background/>\r\n| Fusion Rifle        | 27%     | -15% CR\r\n| Linear Fusion Rifle | 25%     | -15% CR <background/>\r\n<$>",
+        "secondaryEditor": ""
+      },
+      "lastUpdate": "2022-02-12T13:33:53.814Z"
+    }
+  },
+  "none": {
+    "0": {
+      "name": "Fading Memory",
+      "id": 0,
+      "description": {},
+      "editor": {
+        "mainEditor": "",
+        "secondaryEditor": ""
+      },
+      "lastUpdate": "2022-02-13T18:32:14.280Z"
+    }
+  }
+}
