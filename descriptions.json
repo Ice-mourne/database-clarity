@@ -93,7 +93,7 @@
           ]
         }
       ],
-      "lastUpdate": "2022-02-14T16:31:47.347Z"
+      "lastUpdate": "2022-02-13T14:31:44.604Z"
     }
   },
   "normal": {
@@ -523,8 +523,9 @@
     "0": {
       "name": "Fading Memory",
       "id": 0,
+      "armorName": "",
       "description": {},
-      "lastUpdate": "2022-02-13T18:32:14.280Z"
+      "lastUpdate": "2022-02-14T17:54:15.846Z"
     }
   }
 }
