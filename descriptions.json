@@ -684,6 +684,85 @@
         }
       },
       "lastUpdate": 1645045973327
+    },
+    "3161816588": {
+      "name": "Slideshot",
+      "id": 3161816588,
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Upon Sliding:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "15% Magazine Refreshed,"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "20 Range,"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "30 Stability."
+            }
+          ]
+        },
+        {
+          "className": "spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Only buffs first shot."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Lasts ~3 seconds. 0.3 Second Cooldown. Can activate multiple times per slide."
+            }
+          ]
+        },
+        {
+          "className": "spacer"
+        },
+        {
+          "lineText": [
+            {
+              "formulaText": "In_Game Range:",
+              "formula": "range_0"
+            }
+          ]
+        }
+      ],
+      "stats": {
+        "range": {
+          "active": {
+            "stat": [
+              20
+            ]
+          }
+        },
+        "stability": {
+          "active": {
+            "stat": [
+              30
+            ]
+          }
+        }
+      },
+      "lastUpdate": 1645047621062
     }
   }
 }
