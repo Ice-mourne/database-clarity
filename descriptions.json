@@ -130,9 +130,7 @@
                   "className": "bold",
                   "text": "+Damage"
                 },
-                {
-                  "text": ""
-                }
+                null
               ]
             },
             {
@@ -271,9 +269,7 @@
                   "className": "bold",
                   "text": "+Damage"
                 },
-                {
-                  "text": ""
-                }
+                null
               ]
             },
             {
@@ -412,9 +408,7 @@
                   "className": "bold",
                   "text": "+Damage"
                 },
-                {
-                  "text": ""
-                }
+                null
               ]
             },
             {
@@ -523,9 +517,173 @@
     "0": {
       "name": "Fading Memory",
       "id": 0,
-      "armorName": "",
-      "description": {},
       "lastUpdate": "2022-02-14T18:58:47.509Z"
+    }
+  },
+  "weaponPerks": {
+    "247725512": {
+      "name": "Rapid Hit",
+      "id": 247725512,
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Precision Hits give Rapid Hit Stacks, granting Reload Speed and Stability for 2 seconds."
+            }
+          ]
+        },
+        {
+          "className": "spacer"
+        },
+        {
+          "table": [
+            {
+              "lineText": [
+                {
+                  "className": "bold",
+                  "text": "Stack"
+                },
+                {
+                  "className": "bold",
+                  "text": "Stability"
+                },
+                {
+                  "className": "bold",
+                  "text": "Reload Stat"
+                },
+                {
+                  "className": "bold",
+                  "text": "Duration Multiplier"
+                },
+                {
+                  "className": "bold",
+                  "text": "Reload Time"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "1x"
+                },
+                {
+                  "text": "5"
+                },
+                {
+                  "text": "5"
+                },
+                {
+                  "text": "0.985x"
+                },
+                {
+                  "formula": "reload_0"
+                }
+              ],
+              "className": "background"
+            },
+            {
+              "lineText": [
+                {
+                  "text": "2x"
+                },
+                {
+                  "text": "10"
+                },
+                {
+                  "text": "27"
+                },
+                {
+                  "text": "0.970x"
+                },
+                {
+                  "formula": "reload_1"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "3x"
+                },
+                {
+                  "text": "15"
+                },
+                {
+                  "text": "32"
+                },
+                {
+                  "text": "0.955x"
+                },
+                {
+                  "formula": "reload_2"
+                }
+              ],
+              "className": "background"
+            },
+            {
+              "lineText": [
+                {
+                  "text": "4x"
+                },
+                {
+                  "text": "20"
+                },
+                {
+                  "text": "40"
+                },
+                {
+                  "text": "0.940x"
+                },
+                {
+                  "formula": "reload_3"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "5x"
+                },
+                {
+                  "text": "23"
+                },
+                {
+                  "text": "54"
+                },
+                {
+                  "text": "0.925x"
+                },
+                {
+                  "formula": "reload_4"
+                }
+              ],
+              "className": "background"
+            }
+          ],
+          "className": "table"
+        }
+      ],
+      "stats": {
+        "reload": {
+          "active": {
+            "stat": [
+              5,
+              27,
+              32,
+              40,
+              54
+            ],
+            "multiplier": [
+              0.985,
+              0.97,
+              0.955,
+              0.94,
+              0.925
+            ]
+          }
+        }
+      },
+      "lastUpdate": 1645045973327
     }
   }
 }
