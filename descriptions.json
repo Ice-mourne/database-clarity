@@ -527,20 +527,8 @@
       "stats": {
         "reload": {
           "active": {
-            "stat": [
-              5,
-              27,
-              32,
-              40,
-              54
-            ],
-            "multiplier": [
-              0.985,
-              0.97,
-              0.955,
-              0.94,
-              0.925
-            ]
+            "stat": "5, 27, 32, 40, 54",
+            "multiplier": "0.985, 0.97, 0.955, 0.94, 0.925"
           }
         }
       },
@@ -576,11 +564,11 @@
                   "className": "bold"
                 },
                 {
-                  "className": "bold"
+                  "formulaText": "Reload Time",
+                  "className": "|b formula bold"
                 },
                 {
-                  "formulaText": "Reload Time",
-                  "className": "formula"
+                  "className": "bold"
                 }
               ]
             },
@@ -600,7 +588,7 @@
                 },
                 {
                   "formula": "reload_0",
-                  "className": "formula"
+                  "className": "| formula"
                 }
               ],
               "className": "background"
@@ -621,7 +609,7 @@
                 },
                 {
                   "formula": "reload_1",
-                  "className": "formula"
+                  "className": "| formula"
                 }
               ]
             },
@@ -641,7 +629,7 @@
                 },
                 {
                   "formula": "reload_2",
-                  "className": "formula"
+                  "className": "| formula"
                 }
               ],
               "className": "background"
@@ -662,7 +650,7 @@
                 },
                 {
                   "formula": "reload_3",
-                  "className": "formula"
+                  "className": "| formula"
                 }
               ]
             },
@@ -682,16 +670,17 @@
                 },
                 {
                   "formula": "reload_4",
-                  "className": "formula"
+                  "className": "| formula"
                 }
               ],
               "className": "background"
             }
           ],
-          "className": "table"
+          "className": "table",
+          "formula": false
         }
       ],
-      "lastUpdate": 1645195462534
+      "lastUpdate": 1645208077299
     },
     "3161816588": {
       "name": "Slideshot",
