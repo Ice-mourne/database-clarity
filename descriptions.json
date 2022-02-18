@@ -524,145 +524,6 @@
     "247725512": {
       "name": "Rapid Hit",
       "id": 247725512,
-      "description": [
-        {
-          "lineText": [
-            {
-              "text": "Precision Hits give Rapid Hit Stacks, granting Reload Speed and Stability for 2 seconds."
-            }
-          ]
-        },
-        {
-          "className": "spacer"
-        },
-        {
-          "table": [
-            {
-              "lineText": [
-                {
-                  "className": "bold",
-                  "text": "Stack"
-                },
-                {
-                  "className": "bold",
-                  "text": "Stability"
-                },
-                {
-                  "className": "bold",
-                  "text": "Reload Stat"
-                },
-                {
-                  "className": "bold",
-                  "text": "Duration Multiplier"
-                },
-                {
-                  "className": "bold",
-                  "text": "Reload Time"
-                }
-              ]
-            },
-            {
-              "lineText": [
-                {
-                  "text": "1x"
-                },
-                {
-                  "text": "5"
-                },
-                {
-                  "text": "5"
-                },
-                {
-                  "text": "0.985x"
-                },
-                {
-                  "formula": "reload_0"
-                }
-              ],
-              "className": "background"
-            },
-            {
-              "lineText": [
-                {
-                  "text": "2x"
-                },
-                {
-                  "text": "10"
-                },
-                {
-                  "text": "27"
-                },
-                {
-                  "text": "0.970x"
-                },
-                {
-                  "formula": "reload_1"
-                }
-              ]
-            },
-            {
-              "lineText": [
-                {
-                  "text": "3x"
-                },
-                {
-                  "text": "15"
-                },
-                {
-                  "text": "32"
-                },
-                {
-                  "text": "0.955x"
-                },
-                {
-                  "formula": "reload_2"
-                }
-              ],
-              "className": "background"
-            },
-            {
-              "lineText": [
-                {
-                  "text": "4x"
-                },
-                {
-                  "text": "20"
-                },
-                {
-                  "text": "40"
-                },
-                {
-                  "text": "0.940x"
-                },
-                {
-                  "formula": "reload_3"
-                }
-              ]
-            },
-            {
-              "lineText": [
-                {
-                  "text": "5x"
-                },
-                {
-                  "text": "23"
-                },
-                {
-                  "text": "54"
-                },
-                {
-                  "text": "0.925x"
-                },
-                {
-                  "formula": "reload_4"
-                }
-              ],
-              "className": "background"
-            }
-          ],
-          "className": "table"
-        }
-      ],
       "stats": {
         "reload": {
           "active": {
@@ -683,7 +544,154 @@
           }
         }
       },
-      "lastUpdate": 1645045973327
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Precision Hits give Rapid Hit Stacks, granting Reload Speed and Stability for 2 seconds."
+            }
+          ]
+        },
+        {
+          "className": "spacer"
+        },
+        {
+          "table": [
+            {
+              "lineText": [
+                {
+                  "text": "Stack",
+                  "className": "bold"
+                },
+                {
+                  "text": "Stability",
+                  "className": "bold"
+                },
+                {
+                  "text": "Reload Stat",
+                  "className": "bold"
+                },
+                {
+                  "text": "Duration Multiplier",
+                  "className": "bold"
+                },
+                {
+                  "className": "bold"
+                },
+                {
+                  "formulaText": "Reload Time",
+                  "className": "formula"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "1x"
+                },
+                {
+                  "text": "5"
+                },
+                {
+                  "text": "5"
+                },
+                {
+                  "text": "0.985x"
+                },
+                {
+                  "formula": "reload_0",
+                  "className": "formula"
+                }
+              ],
+              "className": "background"
+            },
+            {
+              "lineText": [
+                {
+                  "text": "2x"
+                },
+                {
+                  "text": "10"
+                },
+                {
+                  "text": "27"
+                },
+                {
+                  "text": "0.970x"
+                },
+                {
+                  "formula": "reload_1",
+                  "className": "formula"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "3x"
+                },
+                {
+                  "text": "15"
+                },
+                {
+                  "text": "32"
+                },
+                {
+                  "text": "0.955x"
+                },
+                {
+                  "formula": "reload_2",
+                  "className": "formula"
+                }
+              ],
+              "className": "background"
+            },
+            {
+              "lineText": [
+                {
+                  "text": "4x"
+                },
+                {
+                  "text": "20"
+                },
+                {
+                  "text": "40"
+                },
+                {
+                  "text": "0.940x"
+                },
+                {
+                  "formula": "reload_3",
+                  "className": "formula"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "5x"
+                },
+                {
+                  "text": "23"
+                },
+                {
+                  "text": "54"
+                },
+                {
+                  "text": "0.925x"
+                },
+                {
+                  "formula": "reload_4",
+                  "className": "formula"
+                }
+              ],
+              "className": "background"
+            }
+          ],
+          "className": "table"
+        }
+      ],
+      "lastUpdate": 1645195462534
     },
     "3161816588": {
       "name": "Slideshot",
