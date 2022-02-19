@@ -524,6 +524,26 @@
     "247725512": {
       "name": "Rapid Hit",
       "id": 247725512,
+      "stats": {
+        "range": {
+          "active": {
+            "stat": [
+              5,
+              27,
+              32,
+              40,
+              54
+            ],
+            "multiplier": [
+              0.985,
+              0.97,
+              0.955,
+              0.94,
+              0.925
+            ]
+          }
+        }
+      },
       "description": [
         {
           "lineText": [
@@ -672,7 +692,7 @@
           "formula": false
         }
       ],
-      "lastUpdate": 1645281517178
+      "lastUpdate": 1645282173710
     },
     "3161816588": {
       "name": "Slideshot",
