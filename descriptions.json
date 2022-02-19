@@ -540,23 +540,26 @@
             {
               "lineText": [
                 {
-                  "className": "bold",
-                  "text": "Stack"
+                  "text": "Stack",
+                  "className": "bold"
                 },
                 {
-                  "className": "bold",
-                  "text": "Stability"
+                  "text": "Stability",
+                  "className": "bold"
                 },
                 {
-                  "className": "bold",
-                  "text": "Reload Stat"
+                  "text": "Reload Stat",
+                  "className": "bold"
                 },
                 {
-                  "className": "bold",
-                  "text": "Duration Multiplier"
+                  "text": "Duration Multiplier",
+                  "className": "bold"
                 },
                 {
                   "formulaText": "Reload Time",
+                  "className": "|b formula bold"
+                },
+                {
                   "className": "bold"
                 }
               ]
@@ -576,8 +579,8 @@
                   "text": "0.985x"
                 },
                 {
-                  "formulaText": "",
-                  "formula": "reload_0"
+                  "formula": "reload_0",
+                  "className": "| formula"
                 }
               ],
               "className": "background"
@@ -597,8 +600,8 @@
                   "text": "0.970x"
                 },
                 {
-                  "formulaText": "",
-                  "formula": "reload_1"
+                  "formula": "reload_1",
+                  "className": "| formula"
                 }
               ]
             },
@@ -617,8 +620,8 @@
                   "text": "0.955x"
                 },
                 {
-                  "formulaText": "",
-                  "formula": "reload_2"
+                  "formula": "reload_2",
+                  "className": "| formula"
                 }
               ],
               "className": "background"
@@ -638,8 +641,8 @@
                   "text": "0.940x"
                 },
                 {
-                  "formulaText": "",
-                  "formula": "reload_3"
+                  "formula": "reload_3",
+                  "className": "| formula"
                 }
               ]
             },
@@ -658,17 +661,18 @@
                   "text": "0.925x"
                 },
                 {
-                  "formulaText": "",
-                  "formula": "reload_4"
+                  "formula": "reload_4",
+                  "className": "| formula"
                 }
               ],
               "className": "background"
             }
           ],
-          "className": "table"
+          "className": "table",
+          "formula": false
         }
       ],
-      "lastUpdate": 1645277321229
+      "lastUpdate": 1645281517178
     },
     "3161816588": {
       "name": "Slideshot",
