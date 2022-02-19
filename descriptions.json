@@ -524,14 +524,6 @@
     "247725512": {
       "name": "Rapid Hit",
       "id": 247725512,
-      "stats": {
-        "reload": {
-          "active": {
-            "stat": "5, 27, 32, 40, 54",
-            "multiplier": "0.985, 0.97, 0.955, 0.94, 0.925"
-          }
-        }
-      },
       "description": [
         {
           "lineText": [
@@ -548,26 +540,23 @@
             {
               "lineText": [
                 {
-                  "text": "Stack",
-                  "className": "bold"
+                  "className": "bold",
+                  "text": "Stack"
                 },
                 {
-                  "text": "Stability",
-                  "className": "bold"
+                  "className": "bold",
+                  "text": "Stability"
                 },
                 {
-                  "text": "Reload Stat",
-                  "className": "bold"
+                  "className": "bold",
+                  "text": "Reload Stat"
                 },
                 {
-                  "text": "Duration Multiplier",
-                  "className": "bold"
+                  "className": "bold",
+                  "text": "Duration Multiplier"
                 },
                 {
                   "formulaText": "Reload Time",
-                  "className": "|b formula bold"
-                },
-                {
                   "className": "bold"
                 }
               ]
@@ -587,8 +576,8 @@
                   "text": "0.985x"
                 },
                 {
-                  "formula": "reload_0",
-                  "className": "| formula"
+                  "formulaText": "",
+                  "formula": "reload_0"
                 }
               ],
               "className": "background"
@@ -608,8 +597,8 @@
                   "text": "0.970x"
                 },
                 {
-                  "formula": "reload_1",
-                  "className": "| formula"
+                  "formulaText": "",
+                  "formula": "reload_1"
                 }
               ]
             },
@@ -628,8 +617,8 @@
                   "text": "0.955x"
                 },
                 {
-                  "formula": "reload_2",
-                  "className": "| formula"
+                  "formulaText": "",
+                  "formula": "reload_2"
                 }
               ],
               "className": "background"
@@ -649,8 +638,8 @@
                   "text": "0.940x"
                 },
                 {
-                  "formula": "reload_3",
-                  "className": "| formula"
+                  "formulaText": "",
+                  "formula": "reload_3"
                 }
               ]
             },
@@ -669,18 +658,17 @@
                   "text": "0.925x"
                 },
                 {
-                  "formula": "reload_4",
-                  "className": "| formula"
+                  "formulaText": "",
+                  "formula": "reload_4"
                 }
               ],
               "className": "background"
             }
           ],
-          "className": "table",
-          "formula": false
+          "className": "table"
         }
       ],
-      "lastUpdate": 1645208139298
+      "lastUpdate": 1645277321229
     },
     "3161816588": {
       "name": "Slideshot",
