@@ -13,4 +13,5 @@
 ## Projects currently using our data
 - [Clarity - A DIM Companion](https://www.d2clarity.com): Our First Party tool to enhance DIM
 - [Destiny Item Manager](https://dim.gg): The go-to Item Manager for Destiny
+- [Light.gg](https://light.gg): Destiny 2 Database explorer and extensive resource hub
 - [Crayon](https://mijago.github.io/Crayon): A Discord Bot by Mijago
