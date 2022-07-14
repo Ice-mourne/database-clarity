@@ -5,6 +5,21 @@
   },
   "selectedPerkHash": 0,
   "description": {
+    "original": {
+      "0": {
+        "id": 0,
+        "name": "",
+        "type": "none",
+        "description": [],
+        "lastUpdate": 0,
+        "updatedBy": "",
+        "editor": {
+          "mainEditor": "",
+          "secondaryEditor": ""
+        },
+        "uploadToLive": false
+      }
+    },
     "modified": {
       "0": {
         "id": 0,
