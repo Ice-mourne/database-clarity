@@ -513,8 +513,8 @@
     "mainEditor": "On Weapon or Grenade Kill:\n20 Handling and a Stacking Damage Increase for 4.5 seconds.\nBuff Refreshed on Kill. Grenade Kills grant all 5 Stacks instantly.\n\n< table >\n|b Stacks          |b 1x   |b 2x    |b 3x  |b 4x    |b 5x\n|b Damage Increase |  6.6% |  13.2% |  20% |  26.6% |  33% <background/>\n<$>\n\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />\n\nEnhanced: Buff Duration is increased by 0.5 seconds, to a maximum of 5 seconds.",
     "secondaryEditor": "On Weapon or Grenade Kill:\r\n6.6% | 13.2% | 20% | 26.4% | 33% Increased Damage and 20 Handling for 4.5 seconds.\r\n\r\nBuff Refreshed on Kill. Grenade Kills grant all 5 stacks instantly.\r\n\r\nEnhanced: Buff Duration is increased by 0.5 seconds, to a maximum of 5 seconds."
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1658080990968,
+   "inLiveDatabase": true,
+   "lastUpdate": 1658146325998,
    "visible": true
   },
   "25606670": {
@@ -1005,7 +1005,7 @@
     "secondaryEditor": "+10 Accuracy"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188064,
+   "lastUpdate": 1658141469485,
    "visible": true,
    "investmentStatOnly": true
   },
@@ -1699,7 +1699,7 @@
     "secondaryEditor": "+10 Blast Radius"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188064,
+   "lastUpdate": 1658141469485,
    "visible": true,
    "investmentStatOnly": true
   },
@@ -3072,7 +3072,7 @@
     "secondaryEditor": "+10 Range"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188064,
+   "lastUpdate": 1658141469485,
    "visible": true,
    "investmentStatOnly": true
   },
@@ -3248,7 +3248,7 @@
     "secondaryEditor": "Radar immediately returns after stopping ADS. (Normally takes 1.5s)"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188064,
+   "lastUpdate": 1658141469485,
    "visible": true
   },
   "384759954": {
@@ -5095,7 +5095,7 @@
     "secondaryEditor": "X Handling for Y seconds after sprinting for Z seconds."
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188064,
+   "lastUpdate": 1658141469485,
    "visible": true
   },
   "553093017": {
@@ -6502,7 +6502,7 @@
     "secondaryEditor": "+10 Reload"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188064,
+   "lastUpdate": 1658141469485,
    "visible": true,
    "investmentStatOnly": true
   },
@@ -6546,7 +6546,7 @@
     "secondaryEditor": "Rampage lasts 1 second longer (3.5s -> 4.5s)"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188064,
+   "lastUpdate": 1658141469485,
    "visible": true
   },
   "671806388": {
@@ -6748,9 +6748,9 @@
     "mainEditor": "Decreases charge time by 40, and damage by 2%",
     "secondaryEditor": "import main from self"
    },
-   "inLiveDatabase": false,
+   "inLiveDatabase": true,
    "visible": true,
-   "lastUpdate": 1658080990968
+   "lastUpdate": 1658146325998
   },
   "692285813": {
    "id": 692285813,
@@ -7673,7 +7673,7 @@
     "secondaryEditor": "-X% Hipfire Accuracy Cone Growth and 0.95x Ready Animation Duration Multiplier"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188064,
+   "lastUpdate": 1658141469485,
    "visible": true
   },
   "744217850": {
@@ -8074,7 +8074,7 @@
     "secondaryEditor": "-40ms Charge Time\r\nDoes not reduce damage, unlike Charge Time MW.\r\nDoes not display in the stats."
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188064,
+   "lastUpdate": 1658141469485,
    "visible": true
   },
   "776531651": {
@@ -9790,7 +9790,7 @@
     "secondaryEditor": "Grants 15 Airborne Effectiveness"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188064,
+   "lastUpdate": 1658141469485,
    "visible": true,
    "investmentStatOnly": true
   },
@@ -10410,7 +10410,7 @@
     "secondaryEditor": "7.77% Damage Increase against Elites and Minibosses"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188064,
+   "lastUpdate": 1658141469485,
    "visible": true
   },
   "1015611457": {
@@ -10879,8 +10879,8 @@
     "mainEditor": "Upon hitting a Non-Matching Shield or a Barrier Champion Shield:\r\nHits deal increasingly higher damage against Combatant Shields, up to 500% increased damage.\r\nBuff is removed upon hitting a matching shield or an unshielded enemy.\r\n\r\n29% per hit, up to 435%: Fusion Rifles\r\n33.3% per hit, up to 500%: Auto Rifles, Machine Guns, Pulse Rifles, Trace Rifles <background/>\r\n150% per hit, up to 450%: Linear Fusion Rifles [Maxes at 450%] \r\n166.6% per hit, up to 500%: Bows, Glaives, Hand Cannons, and Scout Rifles <background/>\r\n\r\n\r\nEnhanced: Damage Increase per stack and Maximum Damage Increase are increased by a multiplicative 20%\r\nEg: 500% -> 600%",
     "secondaryEditor": "Upon hitting a Non-Matching Shield or a Barrier Champion Shield:\r\nHits deal increasingly higher damage against Combatant Shields, up to 500% increased damage.\r\nBuff is removed upon hitting a matching shield or an unshielded enemy.\r\n\r\n29% per hit, up to 435%: Fusion Rifles\r\n33.3% per hit, up to 500%: Auto Rifles, Machine Guns, Pulse Rifles, Trace Rifles\r\n150% per hit, up to 450%: Linear Fusion Rifles [Maxes at 450%] \r\n166.6% per hit, up to 500%: Bows, Glaives, Hand Cannons, and Scout Rifles\r\n\r\n\r\nEnhanced: Damage Increase per stack and Maximum Damage Increase are increased by a multiplicative 20%\r\nEg: 500% -> 600%"
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1658080990968,
+   "inLiveDatabase": true,
+   "lastUpdate": 1658146325998,
    "visible": true
   },
   "1095471953": {
@@ -12511,7 +12511,7 @@
    "name": "Adept Mag",
    "itemId": 2563444729,
    "itemName": "Adept Mag",
-   "updatedBy": "Fading-Shadow",
+   "updatedBy": "Icemourne",
    "type": "weaponMod",
    "description": [
     {
@@ -12569,8 +12569,8 @@
     "mainEditor": "+40 Magazine Stat\r\n-15 Handling",
     "secondaryEditor": "+40 Magazine Stat\r\n-15 Handling"
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1657811970304,
+   "inLiveDatabase": true,
+   "lastUpdate": 1658141469485,
    "visible": true,
    "investmentStatOnly": true
   },
@@ -13046,7 +13046,7 @@
     "secondaryEditor": "0.9x Ready/Stow Animation Duration Multiplier"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188064,
+   "lastUpdate": 1658141469485,
    "visible": true
   },
   "1341199512": {
@@ -14697,7 +14697,7 @@
     "secondaryEditor": "Additive 10% Increased Surrounded Damage Increase, and lingers for 1.5s"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188064,
+   "lastUpdate": 1658141469485,
    "visible": true
   },
   "1513326571": {
@@ -14749,7 +14749,7 @@
     "secondaryEditor": "10% Damage Increase against Taken Combatants."
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188064,
+   "lastUpdate": 1658141469485,
    "visible": true
   },
   "1523832109": {
@@ -14881,7 +14881,7 @@
     "secondaryEditor": "+35 Recoil Direction\r\n-10 Range"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188064,
+   "lastUpdate": 1658141469485,
    "visible": true,
    "investmentStatOnly": true
   },
@@ -16130,7 +16130,7 @@
     "secondaryEditor": "+15 Recoil Direction"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188064,
+   "lastUpdate": 1658141469485,
    "visible": true,
    "investmentStatOnly": true
   },
@@ -16444,7 +16444,7 @@
   "1645158859": {
    "id": 1645158859,
    "name": "Under Pressure",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "type": "weaponPerk",
    "description": [
     {
@@ -16467,10 +16467,10 @@
      ],
      "linesContent": [
       {
-       "text": "Up to -% Accuracy Cone Size, -% "
+       "text": "Up to -[?]% Accuracy Cone Size, -[?]% "
       },
       {
-       "text": "Accuracy Cone Growth ",
+       "text": "Accuracy Cone Growth",
        "title": "How Fast Your Accuracy Cone Expands. The less the better.",
        "classNames": [
         "title"
@@ -16520,7 +16520,7 @@
      ],
      "linesContent": [
       {
-       "text": "Up to -% Accuracy Cone Size, -% Accuracy Cone Growth, and 30[?] Stability."
+       "text": "Up to -[?]% Accuracy Cone Size, -[?]% Accuracy Cone Growth, and 30[?] Stability."
       }
      ]
     },
@@ -16543,11 +16543,11 @@
     }
    ],
    "editor": {
-    "mainEditor": "As Magazine goes below 50% until empty:\nUp to -% Accuracy Cone Size, -% <title Accuracy Cone Growth [How Fast Your Accuracy Cone Expands. The less the better.] />, and 30[?] Stability.\n\nEnhanced: Stronger effect.",
-    "secondaryEditor": "As Magazine goes below 50% until empty:\r\nUp to -% Accuracy Cone Size, -% Accuracy Cone Growth, and 30[?] Stability.\r\n\r\nEnhanced: Stronger effect."
+    "mainEditor": "As Magazine goes below 50% until empty:\nUp to -[?]% Accuracy Cone Size, -[?]% <title Accuracy Cone Growth [How Fast Your Accuracy Cone Expands. The less the better.] />, and 30[?] Stability.\n\nEnhanced: Stronger effect.",
+    "secondaryEditor": "As Magazine goes below 50% until empty:\r\nUp to -[?]% Accuracy Cone Size, -[?]% Accuracy Cone Growth, and 30[?] Stability.\r\n\r\nEnhanced: Stronger effect."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658144343810,
    "visible": true
   },
   "1667892708": {
@@ -18031,7 +18031,7 @@
     "secondaryEditor": "+10 Aim Assist\r\n-15 Stability"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188064,
+   "lastUpdate": 1658141469485,
    "visible": true,
    "investmentStatOnly": true
   },
@@ -19099,7 +19099,7 @@
     "secondaryEditor": "50% Increased Damage and Radius for Dragonfly explosions"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188064,
+   "lastUpdate": 1658141469485,
    "visible": true
   },
   "1844314558": {
@@ -19654,7 +19654,7 @@
     "secondaryEditor": "-40ms Draw Time"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188064,
+   "lastUpdate": 1658141469485,
    "visible": true
   },
   "1885400500": {
@@ -22982,7 +22982,7 @@
     "secondaryEditor": "+10 Velocity"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188065,
+   "lastUpdate": 1658141469485,
    "visible": true,
    "investmentStatOnly": true
   },
@@ -26932,7 +26932,7 @@
     "secondaryEditor": "7.77% Damage Increase against Bosses and Vehicles."
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188065,
+   "lastUpdate": 1658141469485,
    "visible": true
   },
   "2799418574": {
@@ -29122,7 +29122,7 @@
     "secondaryEditor": "7.77% Damage Increase against Elites, Minibosses, and Bosses"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188065,
+   "lastUpdate": 1658141469485,
    "visible": true
   },
   "3032599245": {
@@ -30431,7 +30431,7 @@
     "secondaryEditor": "+5 Impact"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188065,
+   "lastUpdate": 1658141469485,
    "visible": true,
    "investmentStatOnly": true
   },
@@ -30475,7 +30475,7 @@
     "secondaryEditor": "+5 Aim Assist"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188065,
+   "lastUpdate": 1658141469485,
    "visible": true,
    "investmentStatOnly": true
   },
@@ -31868,7 +31868,7 @@
     "secondaryEditor": "+30 Magazine Stat \r\nComplicated stat, equivalent of Extended Mag"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188065,
+   "lastUpdate": 1658141469485,
    "visible": true
   },
   "3337692349": {
@@ -36103,8 +36103,8 @@
     "mainEditor": "export description (\nOn Weapon Kill:\nIncreased damage, slower Rate of Fire/Charge Rate, and 10 Range for 7 seconds.\n)\n\n<formula In-Game Range: [range_0] />\n\n< table wide > \n|b Weapon           |b Damage         |b Fire/Charge Rate\n|  Hand Cannon      |  <green 30% />  |  <green -15% />   <background/>\n|  Scout Rifle      |  <green 30% />  |  <green -15% />\n|  Rapid-Fire Auto  |  <green 30% />  |  <green -15% />   <background/>\n|  Adaptive Auto    |  <purple 30% /> |  <purple -20% />\n|  Sidearm          |  <purple 30% /> |  <purple -20% />  <background/>\n|  Grenade Launcher |  <purple 30% /> |  <purple -20% />\n|  Linear Fusion    |  30%            |  -15%             <background/>\n|  Fusion Rifle     |  <yellow 27% /> |  <yellow -15% />\n|  Bow              |  <blue 20% />   |  <blue -20% />    <background/>\n|  Shotgun          |  <blue 20% />   |  <blue -20% />\n<$>\n\nEnhanced: Buff Duration is increased to 8 seconds",
     "secondaryEditor": "import description from 3673922083\r\n\r\nBows and Shotguns receive 20% increased damage. Fusion Rifles receive 27% increased damage.\r\n\r\n-15% Rate of Fire/Charge Rate:\r\nHand Cannons, Fusion Rifles, Linear Fusion Rifles, and Scout Rifles, Rapid-Fire Auto Rifles\r\n\r\n-20% Rate of Fire/Charge Rate:\r\nAdaptive Auto Rifles, Bows, Grenade Launchers, Sidearms, and Shotguns\r\n\r\nEnhanced: Buff Duration is increased to 8 seconds."
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1658080990968,
+   "inLiveDatabase": true,
+   "lastUpdate": 1658146325998,
    "visible": true
   },
   "3683811620": {
@@ -36770,8 +36770,8 @@
     "mainEditor": "While at Low Health:\r\nUp to 60 Airborne Effectiveness.\r\nEffect increases linearly as Health decreases. Maximized strength at Critical Health.\r\n\r\nEnhanced: Grants up to 66[?] Airborne Effectiveness.",
     "secondaryEditor": "import main from self"
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1658080990968,
+   "inLiveDatabase": true,
+   "lastUpdate": 1658146325998,
    "visible": true
   },
   "3723531833": {
@@ -36881,7 +36881,7 @@
     "secondaryEditor": "Maximum Radar Distance increased by 8 metres."
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188065,
+   "lastUpdate": 1658141469485,
    "visible": true
   },
   "3789184904": {
@@ -36948,7 +36948,7 @@
     "secondaryEditor": "+15 Airborne Effectiveness\r\n+5 Handling"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188065,
+   "lastUpdate": 1658141469485,
    "visible": true,
    "investmentStatOnly": true
   },
@@ -39179,7 +39179,7 @@
     "secondaryEditor": "+10 Stability"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188065,
+   "lastUpdate": 1658141469485,
    "visible": true,
    "investmentStatOnly": true
   },
@@ -40433,7 +40433,7 @@
     "secondaryEditor": "7.77% Damage Increase against Rank-And-File"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188065,
+   "lastUpdate": 1658141469485,
    "visible": true
   },
   "4091460919": {
@@ -41805,7 +41805,7 @@
     "secondaryEditor": "+10 Handling"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188065,
+   "lastUpdate": 1658141469485,
    "visible": true,
    "investmentStatOnly": true
   },
